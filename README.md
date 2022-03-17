@@ -1,12 +1,10 @@
-### Resuminho básico
+### Resumo básico
 
 <div>
   <a href="https://github.com/douglasaraujo01"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasaraujo01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildonei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 
 <!--
-**gildonei/gildonei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**douglasaraujo01/douglasaraujo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
