@@ -1,2 +1,1 @@
-# douglasaraujo01
- Profile
+<a href="https://github.com/douglasaraujo01"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasaraujo01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
